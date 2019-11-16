@@ -36,6 +36,11 @@ The motivation is to extract some insights for more understanding of how airbnb 
 
    'Setas' is the monument with more Airbnb apartment around it, almost 3500
 
+#### Medium blog post:
+
+This data analysis is complementary to this Medium post: 
+https://medium.com/@enriquemg_52937/mushrooms-as-one-of-the-best-monuments-of-a-city-be8568baae84
+
 #### Data source:
 
 http://insideairbnb.com/get-the-data.html     Date compiled: 30 September, 2019
